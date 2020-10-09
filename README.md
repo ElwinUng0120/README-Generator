@@ -47,5 +47,5 @@ https://drive.google.com/file/d/1sSV6_tPVrgjQ_LVuhKDTPrV4uXuEltWX/view?usp=shari
 ### Generating
 <img src="./img/readme/generating.jpg" alt="Generating README showcase" style="margin-left: auto; margin-right: auto" />
 
-### Example
+### Example Output
 <img src="./img/readme/example.jpg" alt="Example README showcase" style="margin-left: auto; margin-right: auto" />
