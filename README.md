@@ -18,7 +18,7 @@ This project contains the following files:
 
 <br>
 
-This project is made using **Node.js** and **Inquirer** package. <br>
+This project was made using **Node.js** and **Inquirer** package. <br>
 
 ## Using the generator
 - The sequence can be started using **node index.js**
@@ -28,6 +28,9 @@ This project is made using **Node.js** and **Inquirer** package. <br>
 - This generator will create a new file named **temp.md** for storing the generated README.
   - **temp.md** will be created within the same directory of the generator.
   - **CAUSTIONS**: If you have used this generator before, any previous output or file named **temp.md** will be **overwritten**.
+  
+### Showcase video
+https://drive.google.com/file/d/1sSV6_tPVrgjQ_LVuhKDTPrV4uXuEltWX/view?usp=sharing
 
 ### Main menu
 <img src="./img/readme/Main_menu.jpg" alt="Main menu showcase" style="margin-left: auto; margin-right: auto" />
@@ -46,6 +49,3 @@ This project is made using **Node.js** and **Inquirer** package. <br>
 
 ### Example
 <img src="./img/readme/example.jpg" alt="Example README showcase" style="margin-left: auto; margin-right: auto" />
-
-### Showcase video
-<iframe src="https://drive.google.com/file/d/1sSV6_tPVrgjQ_LVuhKDTPrV4uXuEltWX/preview" width="640" height="480"></iframe>
